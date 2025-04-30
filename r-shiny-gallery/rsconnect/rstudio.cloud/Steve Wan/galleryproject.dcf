@@ -1,0 +1,13 @@
+name: galleryproject
+title: Galleryproject
+username:
+account: Steve Wan
+server: rstudio.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 7635173
+bundleId: 6516827
+url: https://rstudio.cloud/content/4967422
+when: 1668530393.9928
+lastSyncTime: 1668530393.99281
+asMultiple: FALSE
+asStatic: FALSE
